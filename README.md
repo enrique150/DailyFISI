@@ -6,9 +6,28 @@
 
 Breve descripción del proyecto, su propósito y funcionalidades principales.
 
-## Capturas de Pantalla
+## Funcionalidades
 
-Inserta aquí capturas de pantalla del proyecto en acción.
+1. **Perfiles de Usuarios:**
+   - Estudiantes, profesores y personal de la facultad pueden crear perfiles con información relevante, como nombre, foto, área de estudio, intereses académicos y de investigación.
+
+2. **Muro de Noticias:**
+   - Un espacio donde los usuarios pueden publicar actualizaciones, compartir artículos interesantes, proyectos en los que están trabajando, logros académicos y otra información relevante.
+
+3. **Comunidades de Estudio:**
+   - Sección donde los usuarios pueden plantear preguntas, discutir temas académicos, resolver dudas y debatir sobre tópicos relevantes.
+
+4. **Eventos Académicos:**
+   - Calendario que muestra conferencias, charlas, seminarios y otros eventos académicos que se llevarán a cabo en la facultad.
+   - Los usuarios pueden confirmar su asistencia, recibir recordatorios y compartir información sobre los eventos.
+
+5. **Comunicación a través de Chats:**
+   - Función de mensajería interna que permite a los usuarios comunicarse directamente, ya sea uno a uno o en grupos.
+   - Se utiliza para discutir proyectos, coordinar actividades y compartir información.
+
+6. **Perfil de Profesor:**
+   - Los profesores pueden destacar sus áreas de expertise, publicaciones académicas, horarios de consulta y recibir preguntas de los estudiantes.
+
 
 ## Características
 
