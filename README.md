@@ -48,7 +48,7 @@ Breve descripción del proyecto, su propósito y funcionalidades principales.
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tuusuario/tuproyecto.git`
+1. Clona este repositorio: `git clone https://github.com/enrique150/DailyFISI.git`
 2. Abre el proyecto en Android Studio.
 3. Configura las variables de entorno necesarias.
 
