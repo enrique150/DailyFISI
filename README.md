@@ -67,9 +67,8 @@ Describe cómo se ejecuta o utiliza el proyecto:
 
 ## Autor
 
-Tu Nombre
-Tus enlaces de contacto (por ejemplo, LinkedIn, Twitter)
+Jose Enrique mbrosio Quispe
+Kevin Ortiz 
+Nabia Pachas
 
-## Licencia
 
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
